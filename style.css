@@ -1,0 +1,27 @@
+body {
+    background-color: darkslategray;
+}
+.centro {
+    text-align: center;
+    color: rgb(148, 70, 148);
+}
+
+iframe {
+    text-align: center;
+}
+
+.reload{
+    color: blue;
+}
+
+.golden{
+    color: gold;
+}
+
+.royal{
+    color: red;
+}
+
+p{
+    color: white;
+}
